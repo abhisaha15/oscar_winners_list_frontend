@@ -36,8 +36,23 @@ The Academy Awards, also known as the Oscars, is an annual awards ceremony honor
 
 ![Screenshot](ui_testing_screenshot_3.gif)
 
+### Scenario-4:
+
+![Screenshot](ui_testing_screenshot_4.gif)
+
+### Scenario-5:
+
+![Screenshot](ui_testing_screenshot_5.gif)
+
+### Scenario-6:
+
+![Screenshot](ui_testing_screenshot_6.gif)
+
+
 <hr>
 
 ## Summary:
 
-I am grateful to Bootstrap and Grid.js for the convenience and efficiency they have brought to my web development projects. These frameworks and libraries have greatly enhanced my workflow and made it easier to create responsive and interactive websites
+I am grateful to <a href="https://getbootstrap.com/">Bootstrap</a> and <a href="https://gridjs.io/docs">Grid.js</a> for the convenience and efficiency they have brought to my web development projects. These frameworks and libraries have greatly enhanced my workflow and made it easier to create responsive and interactive websites.
+<br>
+I would also like to thank Mr.Sankha Subhra Mondal as his <a href="https://github.com/Sankha1998/pre-built-database-MySql">repository</a> and <a href="https://github.com/Sankha1998">profile</a> have been a valuable source of inspiration, offering solutions and insights that shaped my project's success. His meticulous commits and clear codebase made complex concepts easier to understand, enhancing our knowledge. I am grateful for his open-mindedness and generosity in sharing his expertise, which has elevated my project and improved my development skills. His repositories have been guiding lights in the intricate and ever-evolving world of software development, and I deeply appreciate the time and effort you've dedicated to creating and maintaining them.
